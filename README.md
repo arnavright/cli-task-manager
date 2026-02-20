@@ -1,0 +1,4 @@
+- utilised inheritances and composition.
+- classes and special methods (dunders).
+- file i/o.
+- argparse. 
